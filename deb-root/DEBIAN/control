@@ -1,0 +1,11 @@
+Package: MegaCLI
+Version: 8.03.08-1
+Architecture: amd64
+Maintainer: Dmitry Kurbatov <dk@dimcha.ru>
+Depends:
+Priority: optional
+Description: MegaCLI SAS RAID Management Tool
+ .
+ This package provides MegaCLI binary.
+ .
+ It does install MegaCLI.
